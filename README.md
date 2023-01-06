@@ -1,3 +1,4 @@
+![Screenshot 2023-01-06 121703](https://user-images.githubusercontent.com/104456981/210945984-d1291584-047b-4b38-a61a-c11bb4761d65.jpg)
 Food-blog
 Food Blog built using HTML, css and Javascript which keeps track of all the food items . 
 
