@@ -7,7 +7,7 @@ Web Technologies used: HTML, CSS, JavaScript
 
 IDE: VS-Code
 
-Industry: Lifestyle
+Industry: Healthy
 
 
 
